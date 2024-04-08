@@ -1,0 +1,2 @@
+# szamsz
+szam
